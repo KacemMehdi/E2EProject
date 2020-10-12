@@ -1,0 +1,7 @@
+21:43:45.275 [TestNG-tests-3] INFO  Ressources.Base - Navigate to Home Page
+21:43:48.553 [TestNG-tests-2] INFO  Ressources.Base - Navigation Barre is Displayed
+21:43:53.501 [TestNG-tests-1] INFO  Ressources.Base - Test JDD 1
+21:43:58.244 [TestNG-tests-1] INFO  Ressources.Base - Test JDD 2
+21:52:46.522 [TestNG-tests-3] INFO  Ressources.Base - Driver is Initialized
+21:53:00.966 [TestNG-tests-2] INFO  Ressources.Base - Navigation Barre is Displayed
+21:53:03.434 [TestNG-tests-3] INFO  Ressources.Base - Navigate to Home Page
